@@ -1,0 +1,5 @@
+[run]
+include = casino/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
